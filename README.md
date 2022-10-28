@@ -49,7 +49,9 @@ workflows bundled with Alfred, these workflows suffer from the side-effect that
 you must wait for the suggestions to load before you can submit the search. If
 you have poor internet connectivity, or no connection at all, the suggestions
 might fail to load, and therefore those workflows will prohibit you from
-searching for even your typed query.
+searching for even your typed query. These workflows aim to solve this problem
+by cleverly lazy-loading the autocomplete suggestions below the first result
+for your typed query (which can always be submitted immediately).
 
 The available Suggest workflows include:
 
