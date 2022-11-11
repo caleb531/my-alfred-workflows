@@ -61,6 +61,11 @@ The available Suggest workflows include:
 - Wikipedia Suggest (keyword: `w`)
 - YouTube Suggest (keyword: `yt`)
 
+For convenience, pressing the TAB key will populate the selected suggestion into
+Alfred's search, thus making it maximally efficient to narrow your search with
+minimal typing. This behavior is available in all of the above Suggest
+workflows.
+
 ### Open Directory in Terminal
 
 Keyword: `cd`
