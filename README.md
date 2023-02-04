@@ -28,6 +28,12 @@ Launches your next Zoom/Meet/Teams/etc. meeting in no time at all
 
 https://github.com/caleb531/open-conference-url.
 
+### Planning Center for Alfred
+
+An Alfred workflow for various Planning Center uses, like people lookups.
+
+https://github.com/caleb531/planning-center-alfred
+
 ## Unofficial Workflows
 
 The following workflows are personal to me and not published as official
